@@ -58,6 +58,10 @@ Block difficulty can be set to 1, 5, 2
 
 ![<Block Inspector>](<block_inspector_screenshot.png>)
 
+#The program also has functionality to validate the chain
+
+![<Result of 'true' indicates valid chain>](<validate_chain.png>)
+
 # License
 MIT
 
